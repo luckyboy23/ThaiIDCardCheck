@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThaiIDCardCheck", "ThaiIDCardCheck.csproj", "{803864E7-F0DC-4D1A-8D8B-52341D594355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803864E7-F0DC-4D1A-8D8B-52341D594355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803864E7-F0DC-4D1A-8D8B-52341D594355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803864E7-F0DC-4D1A-8D8B-52341D594355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803864E7-F0DC-4D1A-8D8B-52341D594355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3579804-AD44-4590-9456-0EEA7B42C082}
+	EndGlobalSection
+EndGlobal
